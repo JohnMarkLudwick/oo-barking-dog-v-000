@@ -5,7 +5,7 @@ class Dog
    
   end
   
-  def nam
+  def name=(name)
   
   # def bark
   #   puts "woof!"
