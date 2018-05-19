@@ -9,10 +9,6 @@ class Dog
     puts "woof!"
   end
 
-end
-
-def
-
 
 end
 
